@@ -32,7 +32,7 @@ Outcome:
 By the end of this project, I successfully built a cleaned dataset from Flipkart's washing machine listings and was able to use this data to extract insights, perform statistical analysis, and prepare it for visualization. The cleaned data could now be used for deeper analysis, feature selection, or even predictive modeling.
 
 POWER-BI Dashboard:-
-  The Power BI dashboard provides key insights into the sales and performance ofwashing machines on Flipkart:
+  The Power BI dashboard provides key insights into the sales and performance of washing machines on Flipkart:
 Total price sum: ₹7M, with a minimum discount of 5%.
 Average rating: 4.24, with most products rated as "Excellent" or "Average".
 Top discounts: Samsung, Voltas Beko, and Godrej offer the highest total discounts.
